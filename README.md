@@ -17,7 +17,7 @@ The game will display the current board after each move and announce the winner 
 :Installation
 Clone the repository to your local machine:
 bash
-git clone https://github.com/sakshamk2003/tic-tac-toe.git
+git clone https://github.com/SakshamK2003/tic-tac-toe.git
 Navigate to the project directory:
 bash
 cd tic-tac-toe //copy it
