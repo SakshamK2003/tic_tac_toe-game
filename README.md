@@ -8,10 +8,9 @@ Simple command-line interface.
 Two players can play against each other.
 Basic validation to ensure moves are legal.
 Usage
-To play the game, simply run the main script. Follow the prompts to take turns and enter your moves.
 
-:bash
-python tictactoe.py // copy it
+
+
 The game will display the current board after each move and announce the winner or declare a draw when appropriate.
 
 :Installation
